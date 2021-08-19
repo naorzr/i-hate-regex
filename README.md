@@ -19,6 +19,8 @@
 </p>
   <a href="https://ihateregex.io"><img src="https://i.imgur.com/mHuTAzy.png" width=600></a>
   
+  ---
+  
   <p>
     <strong>don't just use; understand.</strong>
 </p>
