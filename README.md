@@ -184,3 +184,5 @@ There are 2 descriptions for each regex.
 
 - The visual demo is built with: [regexper](https://gitlab.com/javallone/regexper-static
 )
+
+---
